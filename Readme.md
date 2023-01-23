@@ -35,7 +35,7 @@
 ## 安装使用
 
 ```git
-git clone 
+git clone https://github.com/RacerZ-fighting/JNDI-EXP.git
 java -jar JNDIEXP-1.0-SNAPSHOT-all.jar -h
 ```
 
